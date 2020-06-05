@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!-- Implicit Inheritance -->
+<resources>
+
+    <style name="AppFont">
+        <item name="android:fontFamily">monospace</item>
+    </style>
+
+    <style name="AppFont.AppSmallText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#616161</item>
+    </style>
+
+    <style name="AppFont.AppMediumText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#616161</item>
+    </style>
+
+    <style name="AppFont.AppLargeText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#616161</item>
+    </style>
+
+    <style name="AppFont.AppExtraLargeText">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#616161</item>
+    </style>
+
+    <style name="AppFont.AppExtraLargeTextLight">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#909090</item>
+    </style>
+
+</resources>
